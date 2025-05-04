@@ -40,6 +40,7 @@ for N in range(10**1):
     
     if ans > число_из_задания:
         print(N)
+        break
 
 ```
 
