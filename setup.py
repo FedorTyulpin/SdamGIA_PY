@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='SdamMCKO',
-  version='1.0.1',
+  version='1.0.5',
   author='Fedor Tyulpin',
   author_email='f.tyulpin@gmail.com',
   description='A Python module for preparation for mcco',
