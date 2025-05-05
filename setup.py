@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='SdamMCKO',
-  version='1.0.11',
+  version='1.0.16',
   author='Fedor Tyulpin',
   author_email='f.tyulpin@gmail.com',
   description='A Python module for preparation for mcco',
@@ -23,6 +23,6 @@ setup(
   keywords='converting numbers numeral systems',
   python_requires='>=3.6',
   package_data={
-        "SdamMCKO": ["*.md"]
+        "SdamMCKO": ["*.md", "*.txt"]
     },
 )

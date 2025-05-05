@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: SdamMCKO
-Version: 1.0.11
+Version: 1.0.16
 Summary: A Python module for preparation for mcco
 Author: Fedor Tyulpin
 Author-email: f.tyulpin@gmail.com
@@ -25,6 +25,8 @@ Dynamic: summary
 3. введите команду:
     ``` bash
     pip install SdamMCKO
+    # или
+    python -m pip install SdamMCKO
     ```
 4. для использования нужно ввсести:
     ```Python
