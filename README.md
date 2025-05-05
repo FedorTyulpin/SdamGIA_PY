@@ -5,6 +5,8 @@
 3. введите команду:
     ``` bash
     pip install SdamMCKO
+    # или
+    python -m pip install SdamMCKO
     ```
 4. для использования нужно ввсести:
     ```Python
